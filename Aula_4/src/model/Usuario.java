@@ -1,11 +1,14 @@
 package model;
 
+import java.util.ArrayList;
+
 public class Usuario {
 	private String Nome, Celular, Email, Senha, CPF;
 	private boolean EstaLogado = false;
+
 	
 	
-	Usuario (String Nome, String Celular, 
+	public Usuario (String Nome, String Celular, 
 			String Email, String Senha, String CPF) {
 		
 		this.Nome = Nome;

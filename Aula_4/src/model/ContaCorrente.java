@@ -32,7 +32,8 @@ public class ContaCorrente extends Conta{
 		
 	}
 	
-	public double getSaldo() { 
+	public double getSaldo() {
+		return saldo;
 	}
 
 }
