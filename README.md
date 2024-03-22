@@ -2,5 +2,6 @@
 
 ## Features
 #### -> Login de Usuários
-#### -> Cadastrode banco
+#### -> Cadastro de bancos
+#### -> Emissão de 
 #### -> Conta corrente e conta poupança
